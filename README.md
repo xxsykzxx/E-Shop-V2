@@ -1,3 +1,3 @@
 # E-Shop-V2
 
-- (?) kotvit hlavičku 
+- (?) kotvit hlavičku. Minimálně na menší obrazovce to zavazí 
