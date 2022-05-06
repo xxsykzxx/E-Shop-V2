@@ -2,7 +2,7 @@
 
 ## Mobil /  Tablet
 **Jak nyní**
-- (+) zobrazit 2 produkty na řádek (nyní jeden produkt)
+- (+) zobrazit 2 produkty na řádek (nyní je jeden produkt) -> stejně jako v blog.detail.html (dole jsou 2 produkty)
 - (-) odebrat popis, přidávání kusů, balení, do košíku
 
 ## PC 1330x768
