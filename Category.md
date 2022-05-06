@@ -1,6 +1,7 @@
 # Category
 - Vycentrovat přidávání ks + balení
 - balení a hned vedle přidávání po kusech (bal) -> na jednom řádku (row)
+- (?) odebrat popisek / změnit na rozměr
 
 ## Mobil /  Tablet
 **Jak nyní**
