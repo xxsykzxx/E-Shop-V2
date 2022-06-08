@@ -7,3 +7,4 @@
 - Tel. kontakt vedle vyhledávání není červeným textem
 - (-) Přepínač EURO / CZ
 - Rychlá objednávka (přepnout z enter na tab)
+- Nechat infoproužek
