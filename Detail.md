@@ -8,7 +8,7 @@
 
 - (➕) výběr balení / kusy (viz obr) (_1bal = 6ks možná posunout jinam_)
 - (➕) Přidat lupu
-- (➕) propisovat i hmotnost ?
+- (-) nepropisovat hmotnost
 <br>
 
 <hr>
