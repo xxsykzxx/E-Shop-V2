@@ -1,5 +1,5 @@
 # Account
-- (-) odebrat Změna údajů a (+) přidat je rovnou na stranku Account
+- ➕ přidat **"změna údajů"** rovnou na stranku **Account**
 
 <hr>
 
