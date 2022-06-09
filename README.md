@@ -8,3 +8,10 @@
 - (-) Přepínač EURO / CZ
 - Rychlá objednávka (přepnout z enter na tab)
 - Nechat infoproužek
+- WebP icon 
+- (❓) upozornění, že jsem VO jako na: [kvety.sk](https://www.kvety.sk/)
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/59166385/172811436-598c62f6-c8cd-42e2-a346-53bc96cac18a.png)
+
