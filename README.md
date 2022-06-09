@@ -13,5 +13,12 @@
 
 <hr>
 
+## Kvety
+
 ![image](https://user-images.githubusercontent.com/59166385/172811436-598c62f6-c8cd-42e2-a346-53bc96cac18a.png)
+
+
+## Velké ikony
+
+![ikon](https://user-images.githubusercontent.com/59166385/172812747-90259ae4-9636-491d-9c30-49eb2cda38d1.png)
 
