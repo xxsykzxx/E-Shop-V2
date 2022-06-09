@@ -2,7 +2,7 @@
 - ceny za dopravu / platbu (jako v nové šabloně)
 
 
-❓ - infoproužek s dopravou vycentrovat ? (jak je nyní v nové šabloně)
+- (❓) infoproužek s dopravou vycentrovat ? (jak je nyní v nové šabloně)
 
 <hr>
 
