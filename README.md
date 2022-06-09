@@ -9,6 +9,8 @@
 - Rychlá objednávka (přepnout z enter na tab)
 - Nechat infoproužek
 - WebP icon 
+- (❗) Menu při přidání košíku zmizí nahorů
+- Menu u 13 palců se bude kotvit nahoře
 - (❓) upozornění, že jsem VO jako na: [kvety.sk](https://www.kvety.sk/)
 
 <hr>
