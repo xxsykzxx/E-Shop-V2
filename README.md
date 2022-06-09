@@ -10,13 +10,8 @@
 - Nechat infoproužek
 - WebP icon 
 - (❗) Menu při přidání košíku zmizí nahorů
-- (❓) upozornění, že jsme VO jak na: [kvety.sk](https://www.kvety.sk/)
 
 <hr>
-
-## Kvety
-
-![image](https://user-images.githubusercontent.com/59166385/172811436-598c62f6-c8cd-42e2-a346-53bc96cac18a.png)
 
 
 ## Velké ikony
