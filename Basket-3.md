@@ -11,7 +11,7 @@
 - (➕) chybí zapomněl heslo 
 <br>
 
-- (❓) chybí registrace nového zákazníka (možná dobře, je zde **"Chci se registrovat"**
+- (+) chybí registrace nového zákazníka (možná dobře, je zde **"Chci se registrovat"**
 
 ## Chci se registrovat
 - Formulář (údaje) nechat jak je nyní
