@@ -1,22 +1,31 @@
 # Basket-3
+- (➕) chybí horni lišta (obchod. podminky, doprava, ... )
+- (➕) chybí menu (jaro, podzim, .. )
+<br>
 
-- chybí horni lišta (obchod. podminky, doprava, ... )
-- (-) Uživatelské nastavení -> odebrat možnost měny
+- (➖) **Uživatelské nastavení** -> odebrat možnost měny (dole)
 
 
 ## Chci se přihlásit
-- (+) chybí zapomněl heslo a registrace nového zákazníka
+- (➕) chybí zapomněl heslo 
+<br>
+
+- (❓) chybí registrace nového zákazníka (možná dobře, je zde **"Chci se registrovat"**
 
 ## Chci se registrovat
-- Mít nahoře výběr MO / VO -> jak je v šabloně
+- Formulář (údaje) nechat jak je nyní
+- Mít nahoře výběr MO / VO -> jak je v šabloně (jako první)
+<br>
 
-### Koncoví zákazník
-- odebrat stát
-
+- (➖) Odebrat stát
 ### Firma
-- formulář nechat jak je nyní
-  - (+) změnit pořadí -> IČO (import) dát na první místo
-  - odebrat stát
+
+  - (➕) změnit pořadí -> IČO (import) dát na první místo
 
 ## Nákup bez registrace
-- stejně jako firma
+- stejně jako **firma** jinak nechat starý formulář 
+
+<hr>
+
+![basket-3 - firma musí zadat ičo](https://user-images.githubusercontent.com/59166385/172784780-acb248c1-d813-4d43-91ae-fc525eed47d3.png)
+
