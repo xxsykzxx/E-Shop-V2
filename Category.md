@@ -1,6 +1,6 @@
 # Category
 - Vycentrovat přidávání ks + balení (viz obr) případně balení a hned vedle přidávání po kusech (bal) jako na mobilu -> na jednom řádku (row) 
-- oznámení s interakcí košíku
+- oznámení s interakcí košíku (pokud je skladem 10ks a dám 20, dát do košíku 10ks)
 - možnost přepínání mezi VO a MO výpis + přepínání např. 3 a 5 produktů
 <br>
 
