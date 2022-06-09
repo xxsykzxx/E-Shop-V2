@@ -1,11 +1,21 @@
 # Category
-- Vycentrovat přidávání ks + balení
-- balení a hned vedle přidávání po kusech (bal) jako na mobilu -> na jednom řádku (row) 
-- (-) odebrat popisek 
+- Vycentrovat přidávání ks + balení (viz obr) případně balení a hned vedle přidávání po kusech (bal) jako na mobilu -> na jednom řádku (row) 
+- oznámení s interakcí košíku
+- možnost přepínání mezi VO a MO výpis + přepínání např. 3 a 5 produktů
+<br>
+
+- (➖) odebrat popisek 
 
 ## Mobil /  Tablet
 **Jak nyní**
-- (+) zobrazit 2 produkty na řádek (nyní je jeden produkt) -> stejně jako v blog.detail.html (dole jsou 2 produkty)
-- (-) odebrat popis, přidávání kusů, balení, do košíku
+- (➕) zobrazit 2 produkty na řádek (nyní je jeden produkt) -> stejně jako v blog.detail.html (dole jsou 2 produkty)
+<br>
 
+- (➖) odebrat popis, přidávání kusů, balení, do košíku (jak je to nyní)
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/59166385/172788498-c1175599-9b20-4607-ac35-e2a02098a678.png)
+
+![image](https://user-images.githubusercontent.com/59166385/172800134-7bc6b9a6-f159-4c55-a435-5e483ce290e3.png)
 
