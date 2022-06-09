@@ -5,7 +5,7 @@
 <br>
 
 - (:question:) velikost textu celkové částky
-- (:question:) pokračovat v objednávce (máme pokračovat)
+
 
 <hr>
 
