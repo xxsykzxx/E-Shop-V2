@@ -1,6 +1,7 @@
 # Quick Order
 
 - předělat enter na tabulátor
+- pozice jak ve staré šabloně
 <br>
 
 - (➕) přidat jen dostupné
