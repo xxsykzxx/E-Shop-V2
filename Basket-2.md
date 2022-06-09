@@ -1,5 +1,5 @@
 # Baslet - 2
-- ceny za dopravu / platbu (jako v nové šabloně)
+- ceny za dopravu / platbu (jako v nové šabloně) - viz obr
 
 
 - (❓) infoproužek s dopravou vycentrovat ? (jak je nyní v nové šabloně)
