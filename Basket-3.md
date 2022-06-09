@@ -1,6 +1,7 @@
 # Basket-3
 - (➕) chybí horni lišta (obchod. podminky, doprava, ... )
 - (➕) chybí menu (jaro, podzim, .. )
+- (➕) přidat IČD na SK eshop
 <br>
 
 - (➖) **Uživatelské nastavení** -> odebrat možnost měny (dole)
