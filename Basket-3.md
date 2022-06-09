@@ -1,5 +1,6 @@
 # Basket-3
-- kontrola zda je už registrovany
+- kontrola zda je už registrovany (VO - ičo, MO - email)
+<br>
 
 - (➕) chybí horni lišta (obchod. podminky, doprava, ... )
 - (➕) chybí menu (jaro, podzim, .. )
