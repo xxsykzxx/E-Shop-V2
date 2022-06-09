@@ -1,8 +1,8 @@
 # Account-orders
-- ➕ popis (stejně jak u staré šablony)
+- (➕) popis (stejně jak u staré šablony)
 <br>
 
-- ➖ Odebrat hledání podle roku
+- (➖) Odebrat hledání podle roku
 
 
 <hr>
