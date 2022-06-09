@@ -1,7 +1,11 @@
 # Basket-1
 
-- (+) přidat vymazat košík
-- (?) velikost textu celkové částky
+- (:heavy_plus_sign:) přidat vymazat košík
+- (:heavy_plus_sign:) přidat menu (jaro, podzim, pekařství, ... )
+<br>
+
+- (:question:) velikost textu celkové částky
+- (:question:) pokračovat v objednávce (máme pokračovat)
 
 <hr>
 
