@@ -1,6 +1,7 @@
 # Account-orders
 
 - (-) Odebrat hledání podle roku
+- (+) popis (stejně jak u staré šablony)
 
 <hr>
 
