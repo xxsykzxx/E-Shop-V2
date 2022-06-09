@@ -1,2 +1,6 @@
 # Blog-detail
-- (-) odebrat autora článku na spodku
+- odkaz na produkty
+- odkaz na další článek
+<br>
+
+- (➖) odebrat autora článku na spodku
