@@ -10,6 +10,11 @@
 - Nechat infoproužek
 - WebP icon 
 - (❗) Menu při přidání košíku zmizí nahorů
+- 4. Krok košíku (pokud nedokončí obj, alert jestli opravdu chce odejít)
+- border byl doděláván, nechat jak je na starým (nyní) -> profile, oblíbený, košík, pokračovat, ...
+- Reklamace (není dořešeno v E-shopu ani Abře)
+- BOD 31 (Abra) -> název výrobku na "skladově kartě" nepropisovat do formuláře. Pokud by byl název ve formuláři, převzal by se tento název.
+  - možnost: název na kartě automaticky změni název ve formuláři, pokud budu chtit jiny nazev, změnim jen ve formuláři (pro eshop)
 
 <hr>
 
