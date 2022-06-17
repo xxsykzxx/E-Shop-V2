@@ -15,7 +15,7 @@
 - Reklamace (není dořešeno v E-shopu ani Abře)
 - BOD 31 (Abra) -> název výrobku na "skladově kartě" nepropisovat do formuláře. Pokud by byl název ve formuláři, převzal by se tento název.
   - možnost: název na kartě automaticky změni název ve formuláři, pokud budu chtit jiny nazev, změnim jen ve formuláři (pro eshop)
-
+- Jednorázový nákup (Michal Vágner) -> Dropshipping, je nutné vytvořit novou pobočku, nelze mazat atd. zbytečně moc provozoven bez možnosti editace
 <hr>
 
 
