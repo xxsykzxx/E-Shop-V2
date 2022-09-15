@@ -19,6 +19,7 @@
 - 4 . Krok košíku (Souhrn objednávky) -> přidat datum dodání / doručíme od ...
 - BOD 39. vymazat starou slevu v rychlé objednávce (uloží se ze staré rychlé objednávky)
 - BOD 46. pokud není v Abře povoleno "Bankovním převodem" tak nezobrazovat splatnost na e-shopu (žměna údajů)
+- DOTAZ - Firmy, který mají ceník uvidí jen produkty, ktere jsou v ceník (například coop) -> checkbox díky, kterému uvídí všechno zboží
 <hr>
 
 
