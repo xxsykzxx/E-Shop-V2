@@ -22,6 +22,7 @@
 - DOTAZ - Firmy, který mají ceník uvidí jen produkty, ktere jsou v ceník (například coop) -> checkbox díky, kterému uvídí všechno zboží + pokud budu přihlášen pod firmou, napípnu zboží, ukátat hlášku, že zboží není zalistované
 - VO - slevněné produkty - původní cena je s DPH a slevněné je BEZ DPH .. (chceme obě ceny bez dph)
 - Při poslání Zapomenuté heslo -> osekat formulář na čístě vyplnění hesla ?
+- Infoproužek (ABRA) - nezobrazovat, pokud není žádný text
 <hr>
 
 
