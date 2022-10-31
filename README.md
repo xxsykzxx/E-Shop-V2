@@ -23,6 +23,7 @@
 - VO - slevněné produkty - původní cena je s DPH a slevněné je BEZ DPH .. (chceme obě ceny bez dph)
 - Při poslání Zapomenuté heslo -> osekat formulář na čístě vyplnění hesla ?
 - Infoproužek (ABRA) - nezobrazovat, pokud není žádný text
+- Uživatel -> Změna údajů -> Seznam uživatelů -> přidat osobu -> Nekontroluje tel. čislo (chybí +420) zřejmě to same i u SK
 <hr>
 
 
