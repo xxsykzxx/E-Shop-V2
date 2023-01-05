@@ -24,7 +24,7 @@
 - Při poslání Zapomenuté heslo -> osekat formulář na čístě vyplnění hesla ?
 - Infoproužek (ABRA) - nezobrazovat, pokud není žádný text
 - Uživatel -> Změna údajů -> Seznam uživatelů -> přidat osobu -> Nekontroluje tel. čislo (chybí +420) zřejmě to same i u SK
-- Nefunguje vyhledávání: Admin -> seznam firem -> vyhledávání podle názvu firmy. Např.: ***Pavel Procházka*** (IČO: 47335769)
+- Nefunguje vyhledávání: Admin -> seznam firem -> vyhledávání podle názvu firmy. Např.: ***Pavel Procházka, Helena Michalčáková*** (IČO: 47335769)
 <hr>
 
 
