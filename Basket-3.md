@@ -2,7 +2,7 @@
 - kontrola zda je už registrovany (VO - ičo, MO - email)
 <br>
 
-- (➕) chybí horni lišta (obchod. podminky, doprava, ... )
+- (➕) chybí horni lišta (obchod. podminky, doprava, ... ) -> u ostatních souboru lišta je
 - (➕) přidat IČD na SK eshop
 <br>
 
