@@ -4,6 +4,7 @@
 
 - (➕) chybí horni lišta (obchod. podminky, doprava, ... ) -> u ostatních souboru lišta je
 - (➕) přidat IČD na SK eshop
+- (➖) Odebrat stát
 <br>
 
 - (➖) **Uživatelské nastavení** -> odebrat možnost měny (dole)
@@ -20,7 +21,6 @@
 - Mít nahoře výběr MO / VO -> jak je v šabloně (jako první)
 <br>
 
-- (➖) Odebrat stát
 ### Firma
 
   - (➕) změnit pořadí -> IČO (import) dát na první místo
