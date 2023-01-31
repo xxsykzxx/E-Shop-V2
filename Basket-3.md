@@ -3,7 +3,6 @@
 <br>
 
 - (➕) chybí horni lišta (obchod. podminky, doprava, ... )
-- (➕) chybí menu (jaro, podzim, .. )
 - (➕) přidat IČD na SK eshop
 <br>
 
