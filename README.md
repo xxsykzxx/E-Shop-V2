@@ -26,7 +26,7 @@ SK
 - Nefunguje vyhledávání: Admin -> seznam firem -> vyhledávání podle názvu firmy. Např.: ***Pavel Procházka, Helena Michalčáková*** (IČO: 47335769)
 - patičku blbne u některých souborů (basket3, ...)
 - Vyhledávání ve fulltextu nefunguje filtr (např. vyhledám krabičku)
-- Pokud zadám zadám množství 100ks, ale skladem 30ks -> automaticky nastavit 30ks do košíku
+- Pokud zadám množství 100ks, ale skladem 30ks -> automaticky nastavit 30ks do košíku
 
 <hr>
 
