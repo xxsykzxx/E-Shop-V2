@@ -27,7 +27,7 @@ SK
 - patičku blbne u některých souborů (basket3, ...)
 - Vyhledávání ve fulltextu nefunguje filtr (např. vyhledám krabičku)
 - Pokud zadám množství 100ks, ale skladem 30ks -> automaticky nastavit 30ks do košíku
-
+- Rozdělit 2. jakost do samostatné sekce a samotnou 2. jakost nezobrazovat mezi ostatníma položkama. Častá reklamace techto položek.
 <hr>
 
 
