@@ -5,7 +5,7 @@
 - propisování rozměrů samostatně 
 <br>
 
-- (➕) Přidat lupu
-- (-) nepropisovat hmotnost
+- (➕) Přidat lupu (bylo v analýze)
+- (➕) nepropisovat hmotnost
 <br>
 
