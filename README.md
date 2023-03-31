@@ -29,6 +29,7 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - občerstvít všechny eshopy najednou (bude za stejný čas ? nebo bude trbat 3x dýl)
 - zapomněl heslo, nechat pouze email (odebrat přihlašovací jméno), hláška pokud zadá špatný email: Zadaný e-mail nebyl nalezen.
 - Zísilkovna nemá manipulační poplatek kvůli hmotnosti (špatně)
+- Po přidání do košíku +/- mění množství jen po 1 (pedig má 0,5kg, přidá pak 1,5kg)
 <hr>
 
 
