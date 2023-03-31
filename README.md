@@ -25,7 +25,7 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - Vyhledávání ve fulltextu nefunguje filtr (např. vyhledám krabičku)
 - Pokud zadám množství 100ks, ale skladem 30ks -> automaticky nastavit 30ks do košíku
 - Rozdělit 2. jakost do samostatné sekce a samotnou 2. jakost nezobrazovat mezi ostatníma položkama. Častá reklamace techto položek.
-- Dodací adresu omezit na max 30 znaků. Pokud má více než 30 nelze vytvořit balík. Do balíkobotu následně udělat úpravu, aby se automaticky přenášelo max 30 znaků (např. z fakturační adresy) avšak ji nevymazalo v Adresáři firem
+- Dodací adresu omezit na max 30 znaků. Pokud má více než 30 nelze vytvořit balík. Do balíkobotu následně udělat úpravu, aby se automaticky přenášelo max 30 znaků (např. z fakturační adresy) avšak ji nevymazalo v Adresáři firem (pouze do Abry, ne eshop)
 - občerstvít všechny eshopy najednou
 - zapomněl heslo, nechat pouze email (odebrat přihlašovací jméno), hláška pokud zadá špatný email: Zadaný e-mail nebyl nalezen.
 <hr>
