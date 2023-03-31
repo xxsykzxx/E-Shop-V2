@@ -31,6 +31,7 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - Zísilkovna nemá manipulační poplatek kvůli hmotnosti (špatně)
 - Po přidání do košíku +/- mění množství jen po 1 (pedig má 0,5kg, přidá pak 1,5kg)
 - Skrýt / zobrazit vyprodané oddělení (např. pedig -> úplety) .. skrýt stejně jako sklad. položky, které už nejsou. Admin uvidí vše
+- Lze limity dopravy nastavit pro dealery s jinou částkou ? VO - 5000kč / Dealer 3000kč
 <hr>
 
 
