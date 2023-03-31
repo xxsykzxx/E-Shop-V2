@@ -19,7 +19,7 @@
 - Při poslání Zapomenuté heslo -> osekat formulář na čístě vyplnění hesla ?
 - Infoproužek (ABRA) - nezobrazovat, pokud není žádný text
 - Uživatel -> Změna údajů -> Seznam uživatelů -> přidat osobu -> Nekontroluje tel. čislo: nedoplní +420 a můžu zadat nesmyslné číslo (739 822 1999) zřejmě to same i u 
-SK
+SK, stejný problém u "Nový login" -> napojení na foxentry
 - Nefunguje vyhledávání: Admin -> seznam firem -> vyhledávání podle názvu firmy. Např.: ***Pavel Procházka, Helena Michalčáková*** (IČO: 47335769)
 - patičku blbne u některých souborů (basket3, ...)
 - Vyhledávání ve fulltextu nefunguje filtr (např. vyhledám krabičku)
