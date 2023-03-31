@@ -6,6 +6,6 @@
 <br>
 
 - (➕) Přidat lupu (bylo v analýze)
-- (➕) nepropisovat hmotnost
+- (➕) propisovat hmotnost
 <br>
 
