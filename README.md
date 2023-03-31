@@ -21,7 +21,7 @@
 - Uživatel -> Změna údajů -> Seznam uživatelů -> přidat osobu -> Nekontroluje tel. čislo: nedoplní +420 a můžu zadat nesmyslné číslo (739 822 1999) zřejmě to same i u 
 SK, stejný problém u "Nový login" -> napojení na foxentry
 - Nefunguje vyhledávání: Admin -> seznam firem -> vyhledávání podle názvu firmy. Např.: ***Pavel Procházka, Helena Michalčáková*** (IČO: 47335769)
-- patičku blbne u některých souborů (basket3, ...)
+- patičku blbne u některých souborů (basket3, basket2 ...) správně v account.html (patička)
 - Vyhledávání ve fulltextu nefunguje filtr (např. vyhledám krabičku)
 - Pokud zadám množství 100ks, ale skladem 30ks -> automaticky nastavit 30ks do košíku
 - Rozdělit 2. jakost do samostatné sekce a samotnou 2. jakost nezobrazovat mezi ostatníma položkama. Častá reklamace techto položek.
