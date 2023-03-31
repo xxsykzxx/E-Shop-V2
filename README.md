@@ -28,6 +28,7 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - Dodací adresu omezit na max 30 znaků. Pokud má více než 30 nelze vytvořit balík. Do balíkobotu následně udělat úpravu, aby se automaticky přenášelo max 30 znaků (např. z fakturační adresy) avšak ji nevymazalo v Adresáři firem (pouze do Abry, ne eshop)
 - občerstvít všechny eshopy najednou (bude za stejný čas ? nebo bude trbat 3x dýl)
 - zapomněl heslo, nechat pouze email (odebrat přihlašovací jméno), hláška pokud zadá špatný email: Zadaný e-mail nebyl nalezen.
+- Zísilkovna nemá manipulační poplatek kvůli hmotnosti (špatně)
 <hr>
 
 
