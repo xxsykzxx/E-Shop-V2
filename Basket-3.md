@@ -4,7 +4,7 @@
 
 - (➕) chybí horni lišta (obchod. podminky, doprava, ... ) -> u ostatních souboru lišta je
 - (➕) přidat IČD na SK eshop
-- (➖) Odebrat stát
+- nechat stát, ale omezit v ČR na ČR a SK na SK, zbytek všechny země
 <br>
 
 - (➖) **Uživatelské nastavení** -> odebrat možnost měny (dole)
@@ -14,7 +14,7 @@
 - (➕) chybí zapomněl heslo 
 <br>
 
-- (+) chybí registrace nového zákazníka (možná dobře, je zde **"Chci se registrovat"**
+- (+) chybí registrace nového zákazníka (možná dobře, je zde **"Chci se registrovat"**) nedoplňovat
 
 ## Chci se registrovat
 - Formulář (údaje) nechat jak je nyní
