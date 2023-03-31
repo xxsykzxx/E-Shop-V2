@@ -34,6 +34,6 @@ SK
 
 
 ## Velké ikony
-
+WebP
 ![ikon](https://user-images.githubusercontent.com/59166385/172812747-90259ae4-9636-491d-9c30-49eb2cda38d1.png)
 
