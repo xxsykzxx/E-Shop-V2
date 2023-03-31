@@ -30,7 +30,7 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - zapomněl heslo, nechat pouze email (odebrat přihlašovací jméno), hláška pokud zadá špatný email: Zadaný e-mail nebyl nalezen.
 - Zísilkovna nemá manipulační poplatek kvůli hmotnosti (špatně)
 - Po přidání do košíku +/- mění množství jen po 1 (pedig má 0,5kg, přidá pak 1,5kg)
-- Skrýt / zobrazit vyprodané oddělení (např. pedig -> úplety) .. skrýt stejně jako sklad. položky, které už nejsou
+- Skrýt / zobrazit vyprodané oddělení (např. pedig -> úplety) .. skrýt stejně jako sklad. položky, které už nejsou. Admin uvidí vše
 <hr>
 
 
