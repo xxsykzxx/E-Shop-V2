@@ -1,8 +1,8 @@
 # E-Shop-V2
 
 - ID Transakce z eshopu (https://www.morex.cz/userscartorders.aspx) do Abry (objednávky přijaté)
-- MailChimp
-- Tel. kontakt vedle vyhledávání není červeným textem
+- MailChimp (opuštěný košík)
+- Tel. kontakt vedle vyhledávání není červeným textem (nechat jak je nyní)
 - (-) Přepínač EURO / CZ
 - Rychlá objednávka (přepnout z enter na tab)
 - Nechat infoproužek
@@ -11,9 +11,6 @@
 - 4. Krok košíku (pokud nedokončí obj, alert jestli opravdu chce odejít)
 - border byl doděláván, nechat jak je na starým (nyní) -> profile, oblíbený, košík, pokračovat, ...
 - Reklamace (není dořešeno v E-shopu ani Abře)
-- BOD 31 (Abra) -> název výrobku na "skladově kartě" nepropisovat do formuláře. Pokud by byl název ve formuláři, převzal by se tento název.
-  - možnost: název na kartě automaticky změni název ve formuláři, pokud budu chtit jiny nazev, změnim jen ve formuláři (pro eshop)
-- Jednorázový nákup (Michal Vágner) -> Dropshipping, je nutné vytvořit novou pobočku, nelze mazat atd. zbytečně moc provozoven bez možnosti editace
 - 4 . Krok košíku (Souhrn objednávky) -> přidat datum dodání / doručíme od ...
 - BOD 39. vymazat starou slevu v rychlé objednávce (uloží se ze staré rychlé objednávky)
 - BOD 46. pokud není v Abře povoleno "Bankovním převodem" tak nezobrazovat splatnost na e-shopu (žměna údajů)
@@ -30,6 +27,7 @@ SK
 - Rozdělit 2. jakost do samostatné sekce a samotnou 2. jakost nezobrazovat mezi ostatníma položkama. Častá reklamace techto položek.
 - Dodací adresu omezit na max 30 znaků. Pokud má více než 30 nelze vytvořit balík. Do balíkobotu následně udělat úpravu, aby se automaticky přenášelo max 30 znaků (např. z fakturační adresy) avšak ji nevymazalo v Adresáři firem
 - občerstvít všechny eshopy najednou
+- zapomněl heslo, nechat pouze email (odebrat přihlašovací jméno), hláška pokud zadá špatný email: Zadaný e-mail nebyl nalezen.
 <hr>
 
 
