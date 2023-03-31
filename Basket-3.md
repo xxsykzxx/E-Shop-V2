@@ -1,5 +1,5 @@
 # Basket-3
-- kontrola zda je už registrovany (VO - ičo, MO - email)
+- kontrola zda je už registrovany (VO - ičo, MO - email), nějaké informační okénko
 <br>
 
 - (➕) chybí horni lišta (obchod. podminky, doprava, ... ) -> u ostatních souboru lišta je
