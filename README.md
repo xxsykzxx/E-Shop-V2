@@ -35,7 +35,7 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - V mutacích jsou odkaty česky (např. [Doprava a platba](https://www.morex.shop/dokument/doprava-a-platba/))
 - Manipulační poplatek je součástí dopravy. Lze řešit samostatně ? Nyní je zmatek i v textu. + Zásilkovna u VO nemá žádný manupulačni poplatek kvůli nastavení hmotnosti u balíků. Ideálně následně rozdělit text na dobírku a manipulační částku zvlášť.
 - Pokud má zákazník po splatnosti, alert po přihlášení. (něco jako Modal)
-- Pokud je položka vyprodaná a zároveň je v OV, zobrazit datum kdy přijde. Např.: **"Na předobjednávku 15.08.2024"**. Pokud nebude vůbec na OV - zobrazit "Vyprodané" (
+- Pokud je položka vyprodaná a zároveň je v OV, zobrazit datum kdy přijde. Např.: **"Na předobjednávku 15.08.2024"**. Pokud nebude vůbec na OV - zobrazit "Vyprodané". Příklad produktu: [knižka](https://www.morex.cz/pleteme-kosiky-z-travin-a-bylin/)
 - Dealer může řadit dle množství, nastavit třízení pro všechny. Nahradit za "Nejnovější"
 - Po přihlášení na mobil není poznat, zda je uživatel přihlášen. TODA: Vyřešit obarvením ikony uživatele obdobně jako u Oblíbených.
 - Zaokrouhlení na 1 desetinu pokud číslo nebude celé. Pokud bude celé nechat celé jednotky. TODA: Zobrazit dostupnost zaokrouhlenou na 2 desetinna místa, pokud je zbývající dostupné množství < 10
