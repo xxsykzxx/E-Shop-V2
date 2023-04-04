@@ -37,6 +37,10 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - Pokud má zákazník po splatnosti, alert po přihlášení. (něco jako Modal)
 - Pokud je položka vyprodaná a zároveň je v OV, zobrazit datum kdy přijde. Bud pod text: Na předobjednávku, nebo místo tohoto textu napsat pouze datum. Pokud datum nebude vyplněné, zobrazit pouze text: Na předobjednávku.
 - Dealer může řadit dle množství, nastavit třízení pro všechny. Nahradit za "Nejnovější"
+- Po přihlášení na mobil není poznat, zda je uživatel přihlášen. TODA: Vyřešit obarvením ikony uživatele obdobně jako u Oblíbených.
+- Zaokrouhlení na 1 desetinu pokud číslo nebude celé. Pokud bude celé nechat celé jednotky. TODA: Zobrazit dostupnost zaokrouhlenou na 2 desetinna místa, pokud je zbývající dostupné množství < 10
+- Při nékupu neregistrovaného zákazníka přidat možnost zadat heslo a tím se vytvoří nová registrace.
+- 
 
 
 
