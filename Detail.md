@@ -6,6 +6,6 @@
 <br>
 
 - (➕) Přidat lupu (bylo v analýze)
-- (➕) propisovat hmotnost
+- (+) odkaz na soubor s přílohou: atest, návod, zvková stopa, video, .. 
 <br>
 
