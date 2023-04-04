@@ -40,6 +40,10 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - Po přihlášení na mobil není poznat, zda je uživatel přihlášen. TODA: Vyřešit obarvením ikony uživatele obdobně jako u Oblíbených.
 - Zaokrouhlení na 1 desetinu pokud číslo nebude celé. Pokud bude celé nechat celé jednotky. TODA: Zobrazit dostupnost zaokrouhlenou na 2 desetinna místa, pokud je zbývající dostupné množství < 10
 - Při nékupu neregistrovaného zákazníka přidat možnost zadat heslo a tím se vytvoří nová registrace.
+- Přihlášení pomocí google / seznam 
+- Pokud je sleva na položku při počtu např. 10ks a v košíku nasledně snížím množství na 9ks, sleva pořád zustane stejná jako na 10ks (tulipány)
+- Přepočítávání položek v košíku probíhá 4x (každý krok košíku), pokud je hodně položek, trvá to příliž dlouho.
+- U produktů, které se prodávají podle hmotnosti (12,5kg), objemu, délky nebo kusy, je zákonnou poviností uvádět základní cenu. (např. 4L vody, základní cena za 1L).
 - 
 
 
