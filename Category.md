@@ -4,4 +4,5 @@
 
 # Mobil
 - zobrazovat pouze 2 produkty vedle sebe
+- Interakce o přidání do košíku i na mobilu
 <br>
