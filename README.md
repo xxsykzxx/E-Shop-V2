@@ -30,12 +30,24 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - zapomněl heslo, nechat pouze email (odebrat přihlašovací jméno), hláška pokud zadá špatný email: Zadaný e-mail nebyl nalezen.
 - Zísilkovna nemá manipulační poplatek kvůli hmotnosti (špatně)
 - Po přidání do košíku +/- mění množství jen po 1 (pedig má 0,5kg, přidá pak 1,5kg)
-- Skrýt / zobrazit vyprodané oddělení (např. pedig -> úplety) .. skrýt stejně jako sklad. položky, které už nejsou. Admin uvidí vše
+- Skrýt / zobrazit vyprodané oddělení (např. pedig -> úplety) .. skrýt stejně jako sklad. položky, které už nejsou. Admin uvidí vše (url bude existovat)
 - Lze limity dopravy nastavit pro dealery s jinou částkou ? VO - 5000kč / Dealer 3000kč
+- V mutacích jsou odkaty česky (např. [Doprava a platba](https://www.morex.shop/dokument/doprava-a-platba/))
+- Manipulační poplatek je součástí dopravy. Lze řešit samostatně ? Nyní je zmatek i v textu. + Zásilkovna u VO nemá žádný manupulačni poplatek kvůli nastavení hmotnosti u balíků. Ideálně následně rozdělit text na dobírku a manipulační částku zvlášť.
+- Pokud má zákazník po splatnosti, alert po přihlášení. (něco jako Modal)
+- Pokud je položka vyprodaná a zároveň je v OV, zobrazit datum kdy přijde. Bud pod text: Na předobjednávku, nebo místo tohoto textu napsat pouze datum. Pokud datum nebude vyplněné, zobrazit pouze text: Na předobjednávku.
+- Dealer může řadit dle množství, nastavit třízení pro všechny. Nahradit za "Nejnovější"
+
+
+
 <hr>
 
+# Obrázky 
 
 ## Velké ikony
 WebP
 ![ikon](https://user-images.githubusercontent.com/59166385/172812747-90259ae4-9636-491d-9c30-49eb2cda38d1.png)
 
+## Řadit dle dostupnosti
+![image](https://user-images.githubusercontent.com/59166385/229710824-6a7f5fd4-48b8-4383-8d37-68c48b311ea5.png
+)
