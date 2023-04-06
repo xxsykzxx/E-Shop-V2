@@ -16,7 +16,7 @@
 - BOD 46. pokud není v Abře povoleno "Bankovním převodem" tak nezobrazovat splatnost na e-shopu (žměna údajů)
 - DOTAZ - Firmy, který mají ceník uvidí jen produkty, ktere jsou v ceník (například coop) -> checkbox díky, kterému uvídí všechno zboží + pokud budu přihlášen pod firmou, napípnu zboží, ukátat hlášku, že zboží není zalistované
 - VO - slevněné produkty - původní cena je s DPH a slevněné je BEZ DPH .. (chceme obě ceny bez dph)
-- Při poslání Zapomenuté heslo -> osekat formulář na čístě vyplnění hesla ?
+- Při poslání Zapomenuté heslo -> osekat formulář na čístě vyplnění hesla
 - Infoproužek (ABRA) - nezobrazovat, pokud není žádný text
 - Uživatel -> Změna údajů -> Seznam uživatelů -> přidat osobu -> Nekontroluje tel. čislo: nedoplní +420 a můžu zadat nesmyslné číslo (739 822 1999) zřejmě to same i u 
 SK, stejný problém u "Nový login" -> napojení na foxentry
