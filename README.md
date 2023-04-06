@@ -8,10 +8,10 @@
 - Nechat infoproužek
 - WebP icon 
 - (❗) Menu při přidání košíku zmizí nahorů
-- 4. Krok košíku (pokud nedokončí obj, alert jestli opravdu chce odejít)
+- 4 . Krok košíku (pokud nedokončí obj, alert jestli opravdu chce odejít)
+- 4 . Krok košíku (Souhrn objednávky) -> přidat datum dodání / doručíme od ... + pokud nepotvrdím podmínky, sjet dolu a upozornit na to
 - border byl doděláván, nechat jak je na starým (nyní) -> profile, oblíbený, košík, pokračovat, ...
 - Reklamace (není dořešeno v E-shopu ani Abře)
-- 4 . Krok košíku (Souhrn objednávky) -> přidat datum dodání / doručíme od ... + pokud nepotvrdím podmínky, sjet dolu a upozornit na to
 - BOD 39. vymazat starou slevu v rychlé objednávce (uloží se ze staré rychlé objednávky)
 - BOD 46. pokud není v Abře povoleno "Bankovním převodem" tak nezobrazovat splatnost na e-shopu (žměna údajů)
 - DOTAZ - Firmy, který mají ceník uvidí jen produkty, ktere jsou v ceník (například coop) -> checkbox díky, kterému uvídí všechno zboží + pokud budu přihlášen pod firmou, napípnu zboží, ukátat hlášku, že zboží není zalistované
