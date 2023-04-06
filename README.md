@@ -61,6 +61,3 @@ WebP
 
 ## Druhá jakost
 ![Untitled](https://user-images.githubusercontent.com/59166385/230308173-d9183943-5823-4005-870b-6ffb2fe6c394.jpg)
-
-## Reset hesla
-![Untitled1](https://user-images.githubusercontent.com/59166385/230308204-5d68e32c-8ec0-4d6a-b89d-e4f2b07731a5.jpg)
