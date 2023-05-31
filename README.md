@@ -44,7 +44,7 @@ SK, stejný problém u "Nový login" -> napojení na foxentry
 - Přepočítávání položek v košíku probíhá 4x (každý krok košíku), pokud je hodně položek, trvá to příliž dlouho.
 - U produktů, které se prodávají podle hmotnosti (12,5kg), objemu, délky nebo kusy, je zákonnou poviností uvádět základní cenu. (např. 4L vody, základní cena za 1L).
 - Návhr jak udělat rezervace (Vágner, kaufland, mall, .. ) 
-
+- V sitemap.xml jsou špatné url adresy: https://www.morex.cz/aktualita/jaro-prichazi/ (můžeme editovat ? vymazat ? upravit ?) spavně má byt **blog** místo **aktualita**
 
 
 <hr>
