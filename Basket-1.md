@@ -2,6 +2,7 @@
 
 - (:heavy_plus_sign:) přidat vymazat košík
 - (:heavy_plus_sign:) přidat menu (jaro, podzim, pekařství, ... )
+- přidat upozornění, pokud jsem měl v košíku zboží např. 50ks ale 25 kusu se prodalo, takže se zboží ponížilo o 25ks (jaký položka a o kolik není potřeba)
 <br>
 
 - (:question:) velikost textu celkové částky
